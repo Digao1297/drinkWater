@@ -2,4 +2,6 @@
     <string name="app_name">drinkWater</string>
     <string name="hint">Intervalo (min)</string>
     <string name="notify">Notificar</string>
+    <string name="error_msg">Digite o intervalo</string>
+    <string name="pause">Pausar</string>
 </resources>
