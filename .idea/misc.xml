@@ -3,6 +3,8 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Projetos/curso_android/drinkWater/app/src/main/res/drawable/bg_button.xml" value="0.21" />
+        <entry key="..\:/Projetos/curso_android/drinkWater/app/src/main/res/drawable/bg_button_accent.xml" value="0.21" />
         <entry key="..\:/Projetos/curso_android/drinkWater/app/src/main/res/layout/activity_main.xml" value="0.36666666666666664" />
       </map>
     </option>
